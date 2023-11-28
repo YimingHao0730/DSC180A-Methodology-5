@@ -1,4 +1,4 @@
-layout: default
+
 # Yiming Hao
 
 Email: [y7hao@ucsd.edu](mailto:y7hao@ucsd.edu)
